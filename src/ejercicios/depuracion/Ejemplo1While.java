@@ -2,11 +2,12 @@ package ejercicios.depuracion;
 
 import java.util.Scanner;
 public class Ejemplo1While {
-	private int suma, contador;
+
+	private int suma, numero;
 	
 	public Ejemplo1While() {
 		this.suma = 0;
-		this.contador = 0;
+		this.numero = 0;
 	}
 
 	
